@@ -1,0 +1,12 @@
+When news surprise but not in the totally unexpected way (such as PBOC devalue CNY or RBNZ cut bigger
+than expected) but rather it's follow up news such as PBOC fix USDCNY above 7.0 as has been expected 
+but not as bad as markets has anticipated (fix at 7.0039 instead of 7.02+ on 8-Aug-2019).
+
+
+1. The initial 15M candle at the time of news release form an impulse candle
+2. The impulse candle is of decent size (20+ pips?) and engulf most but not all of pre-news release 
+   range and pausing near SR line
+3. The impulse candle may have small tail
+4. but the magnitude of the news is significant enough to sustain another 15M in the same direction
+5. If the above conditions are met, then can expect a follow up 15M candle in the same direction as 
+   the impluse candle that should definitely clear SR line into air pocket

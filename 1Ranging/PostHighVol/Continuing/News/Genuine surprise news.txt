@@ -1,0 +1,10 @@
+When news (economic or political) that are genuine (not rumour) surpise, such as the RBNZ decision to
+cut 50bp instead of 25bp as expected on 7-Aug-2019,or the PBOC allow yuan to devalue substantially on 
+5-Aug-2019 (01:15 GMT 11:15 AEST), the price action pattern tend to trace out as follow:
+
+1. The initial 15M candle at the time of news release form an impulse candle
+2. The impulse candle should fully engulf the pre-news release range and decisively break SR line
+3. The impulse candle don't tend to have a long tail.  It should have a short or no wick
+4. The impluse candle take price into air pocket
+5. If the above conditions are met, then can expect a follow up 15M candle in the same direction as 
+   the impluse candle.

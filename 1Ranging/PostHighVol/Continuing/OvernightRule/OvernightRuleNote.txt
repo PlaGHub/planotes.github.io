@@ -1,0 +1,9 @@
+Direction of Tokyo open session:
+Applicable to: UJ, AJ, AU and EU
+
+* If  NY session is directional & held on to most of the gains, then
+  - Expect price to move in the same direction in first 2 hours of trade (9:00am winter or 11:00 summer)
+  - Entry is to fade from the boundary of consolidation range (highside for down direction, and vice versa)
+
+* This scenario is strongest when consolidation  range obey the consolidation rule, 
+  i.e., making lower lows and highs for down direction and vice versa
