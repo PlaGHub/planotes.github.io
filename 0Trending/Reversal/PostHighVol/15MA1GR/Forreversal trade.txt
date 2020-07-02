@@ -1,0 +1,8 @@
+See EG GU and GJ 15M charts during opening of London session on 17-Dec-2019
+1. Initial ultralong impulse candle off 15M's MA1
+2. Price retrace to projected 15M's MA1
+3.entry when price reaches projected 15M's MA1
+
+Precond: price has already began reversal in daily
+         price direction is opposite primary trend and secondary trend (or neutral secondary trend for GU)
+         GU:pUsN  GJ:pUsU  EG: pDsD
