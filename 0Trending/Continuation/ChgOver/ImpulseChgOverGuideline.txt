@@ -1,0 +1,8 @@
+Change Over May be formed by:
+* one long candle or a series of consecutive candles in same direction, in either case the 
+* changeover candle must form bullish/bearish engulfing pattern and preceded by clear down 
+  or up direction folow by a period of consolidation.
+* Engulfing must enulf the entire consolidation phase's range, and
+* higher probability changeover setup usually associated with price on the correct side of 
+  15M's MA1 and preferrably H1's MA1 as well, as well as
+* having air pocket for price to run

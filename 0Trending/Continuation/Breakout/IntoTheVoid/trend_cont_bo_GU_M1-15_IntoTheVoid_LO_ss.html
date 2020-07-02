@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="../../../../../SetupLibStyle.css">
+<style>
+.mySlides {display:none;}
+</style>
+<body>
+
+<p class="trendslideshowheader">GU London session <b>FAILED</b> breakout M1 to M15 into the void no news</p>
+
+<div class="w3-content w3-display-container">
+  <img class="mySlides" src="http://members.iinet.net.au/~maxsar/Library/0Trending/Continuation/Breakout/IntoTheVoid/20200602_GU_M1_PreLondonOpenBreakoutFailedToRun.JPG" style="width:100%">
+  <img class="mySlides" src="http://members.iinet.net.au/~maxsar/Library/0Trending/Continuation/Breakout/IntoTheVoid/20200602_GU_M5_PreLondonOpenBreakoutFailedToRun.JPG" style="width:100%">
+  <img class="mySlides" src="http://members.iinet.net.au/~maxsar/Library/0Trending/Continuation/Breakout/IntoTheVoid/20200602_GU_M15_PreLondonOpenBreakoutFailedToRun.JPG" style="width:100%">
+
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
+</body>
+</html>
+
+
+
+<!--
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="../../../../../SetupLibStyle.css">
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="http://members.iinet.net.au/~maxsar/Library/0Trending/Continuation/Breakout/Pivot/20190604_AJ_pivotFailedRetestEntry_5M.JPG">
+    <img src="http://members.iinet.net.au/~maxsar/TradingPlaybook.jpg" alt="20190604_AJ_pivotFailedRetestEntry_5M" height="200">
+  </a>
+  <div class="desc">5M pivot failed & retest hold</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="http://members.iinet.net.au/~maxsar/Library/0Trending/Continuation/Breakout/Pivot/20190604_AJ_pivotFailedRetestEntry_15M.JPG">
+    <img src="http://members.iinet.net.au/~maxsar/TradingPlaybook.jpg" alt="20190604_AJ_pivotFailedRetestEntry_15M" height="200">
+  </a>
+  <div class="desc">15M pivot failed & retest hold</div>
+</div>
+
+<table class="footer">
+  <tr>
+    <td class="footer"><a href="http://members.iinet.net.au/~maxsar/index.html">Home</a></td>
+    <td class="footer"><a href="http://members.iinet.net.au/~maxsar/Library/0Trending/TrendMain.html">Trending</a></td>
+    <td class="footer"><a href="http://members.iinet.net.au/~maxsar/Library/1Ranging/RangeMain.html">Ranging</a><td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+-->
